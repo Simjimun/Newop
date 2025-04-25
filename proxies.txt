@@ -1,0 +1,6 @@
+proxy.proxiware.com:1337:user-default-network-res:G8nwi4SvTVeX
+95.134.151.66:6667:rpszuwej1:mpkovnvf1
+95.134.88.8:6667:irkoqmqj1:rdumbuto1
+95.134.134.87:6667:fkmaebgv1:ovpctrjk1
+95.134.128.115:6667:xmanmgjf1:ieegodwd1
+156.228.210.80:6666:tcegufzy1:vqcleplg1
