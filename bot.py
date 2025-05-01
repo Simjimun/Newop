@@ -31,7 +31,7 @@ MAX_WORKERS = 50  # Reduced for better performance
 REQUEST_TIMEOUT = 5  # Seconds
 DELAY_BETWEEN_REQUESTS = 0.5  # Check one username per second
 MAX_RETRIES = 3  # Maximum number of retries for a username
-MENTION_USERNAME = "@TheOnly1x"  # Username to mention in Telegram messages
+MENTION_USERNAME = "#"  # Username to mention in Telegram messages
 
 class InstagramUsernameChecker:
     def __init__(self, proxy_file, bot_token, chat_id, use_proxies=True):
